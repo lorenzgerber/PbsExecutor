@@ -3,7 +3,10 @@
 
 There are to be differentiated between the *Task* status which is in the domain of nextflow and the *Executors process* status which is in the domain of the external executor, here pbs pro.
 
-### Classes involved 
+### Classes involved
+* ScriptRunner
+* Session 
+* TaskDispatcher
 * AbstractGridExecutor
   * PbsProExecutor (extends AbstractGridExecutor)
 * TaskHandler (abstract)
