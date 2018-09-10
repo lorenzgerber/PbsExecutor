@@ -1,7 +1,7 @@
 # PBS Professional Executor on Nextflow
 ## Task and Process management in Nextflow
 
-There as to be differentiated between the Task status which is in the domain of nextflow and the executors process status which is in the domain of the external executor, here pbs pro.
+There are to be differentiated between the *Task* status which is in the domain of nextflow and the *Executors process* status which is in the domain of the external executor, here pbs pro.
 
 ### Classes involved 
 * AbstractGridExecutor
