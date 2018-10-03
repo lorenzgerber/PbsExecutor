@@ -27,5 +27,5 @@ There are to be differentiated between the *Task* status which is in the domain 
 * PENDING, 'Q'
 * HOLD, 'H', 'S'
 
-## Where and When are Status mapped from Process to Task
-
+## Where and when are Status mapped from Process to Task
+The *submit* method in the *TaskDispatcher*
